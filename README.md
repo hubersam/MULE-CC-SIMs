@@ -10,6 +10,12 @@ for which we had to:
 
 The "Multi-Use Lunar Environment Cargo Carrier (MULE-CC)" was our proposed vehicle, and this repository demonstrates the two simulations that I created for our submission.
 
+# Proposal Video
+
+The proposal video was created using the first simulation (described in the next section) in Unreal Engine. You can view the video here:
+
+[![Video](https://img.youtube.com/vi/h5w4Ln8MAA0/0.jpg)](https://www.youtube.com/watch?v=h5w4Ln8MAA0)
+
 # Simulation 1
 
 The first simulation was created in Unreal Engine. It displays the south pole of the lunar surface with realistic lighting and and orbital positioning.
