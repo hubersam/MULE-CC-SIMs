@@ -40,6 +40,6 @@ A demonstration can be seen below.
 
 The second simulation, also created in Unreal Engine, was created for virtual reality (specifically for the Meta Quest Pro). The simulation allows you to get a to-scale 3D view of the vehicle. The user can manipulate the positioning of the forks, mast, legs, and wheels by using the joysticks and menu options. A demonstration can be seen below.
 
-
+https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/b7b72d4a-ef4c-4b0b-87f2-3c8e8f23346f
 
 The actual projects themselves have not been uploaded yet due to size contraints. Once I find a reasonable way to upload all of the files without violating GitHub's maximum repository size, I will upload them.
