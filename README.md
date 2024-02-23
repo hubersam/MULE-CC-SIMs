@@ -32,9 +32,11 @@ To make sure that the positioning of the Sun and Earth were correct, I used NASA
 
 This simulation also allows you to select to positions on the surface and calculate the straight-line distance. It can also calculate the required energy output of the lunar lander going from the first point to the second point. In addition, since the lunar lander can only drive on a small range of landscape inclination, the user can specify the safe inclination for the lander to drive on, and the simulation will show the areas that are safe. To top it off, the simulation will also allow you to pick two points and calculate the path for the lunar lander to take without driving on any unsafe inclination areas.
 
-A demonstration can be seen below.
+A couple demonstrations can be seen below.
 
+https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/6b805e56-b917-4cc7-9973-5de9ca4e9f87
 
+https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/2c558166-b7b1-4b79-a111-7a335e1f1f26
 
 # Simulation 2
 
@@ -43,3 +45,17 @@ The second simulation, also created in Unreal Engine, was created for virtual re
 https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/b7b72d4a-ef4c-4b0b-87f2-3c8e8f23346f
 
 The actual projects themselves have not been uploaded yet due to size contraints. Once I find a reasonable way to upload all of the files without violating GitHub's maximum repository size, I will upload them.
+
+# MULE-CC Model
+
+As a part of the capstone, we had to create a small replica model of the proposed lunar roving vehicle. The purpose of this model was not to replicate the mechanisms that would be on the proposed vehicle, but rather to measure how the wheels would interact with the lunar regolith at different inclines. Therefore, we used a large wooden ramp and some sand at different inclines to determine the amount of slip that would affect the wheels with varying weights.
+
+The vehicle was made out of materials that could easily be purchased online and assembled by members of the team. I was personally responsible for wiring the electrical components, programming the Arduino, and creating an iOS application that would communicate with a Bluetooth module to start and stop the motors.
+
+Here are a few videos of our first prototype:
+
+https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/2c2e0675-c6b1-45aa-95d6-3890964049a6
+
+https://github.com/hubersam/NASA_RASC-AL_MULE-CC_SIMs/assets/103780625/e2f1a79d-d98e-43b4-a776-dd80a24e1a3b
+
+This was not the final product; after these test runs, the motors were swapped out for stronger ones. Additionally, the electrical components on the top were placed into a wooden box that was seated on top of the PVC structure and reorganized. The wooden box had a flap on top to access the inner electrical components. The top of the flap had a wooden pole such that metal gym plates could be placed on top to vary the weight of the vehicle.
